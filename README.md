@@ -8,16 +8,6 @@ Each topic includes a standalone Python script with a short description, clear c
 
 ---
 
-## 📚 Topics
-
-| Topic | What You'll Learn |
-|---|---|
-| [F-Strings: From Messy Output to Clean Reports](fstrings_clean_reports.py) | Format numbers with decimal precision, thousands separators, and aligned columns. |
-
-More examples will be added as the series grows.
-
----
-
 ## 🚀 Getting Started
 
 Clone the repository and open its folder:
